@@ -1,0 +1,16 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.conteyner{
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    padding: 0 50px;
+}
