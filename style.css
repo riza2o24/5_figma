@@ -1,4 +1,5 @@
-
+/* roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
     margin: 0;
@@ -13,4 +14,20 @@
     max-width: 1440px;
     margin: auto;
     padding: 0 50px;
+}
+
+.sigin{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+.sigin__paragrf{
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
 }
