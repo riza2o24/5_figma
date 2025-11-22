@@ -112,6 +112,12 @@
     margin-bottom: 30px;
 }
 
+/* hero */
+.hero{
+    margin-bottom: 20px;
+}
+
+
 .hero__text{
     text-align: center;
     font-size: 32px;
@@ -119,10 +125,19 @@
 }
 
 .hero__paragrf{
+    margin: auto;
     text-align: center;
     width: 685px;
     font-size: 15px;
     font-weight: 400;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.hero__line{
+    width: 70px;
+    height: 2px;
+    background-color: #CFCFCF;
+    margin-bottom: 40px;
+    margin: auto;
 }
