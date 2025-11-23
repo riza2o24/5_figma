@@ -273,4 +273,24 @@
     height: 480px;
     display: flex;
     align-items: center;
+    margin-top: 40px;
+}
+
+
+.images__box{
+    width: 480px;
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url("image/Rectangle\ \(11\).png");
+}
+
+.box22{
+    background-image: url("image/Rectangle\ \(12\).png");
+}
+
+.box3{
+    background-image: url("image/Rectangle\ \(13\).png");
 }
