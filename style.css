@@ -343,7 +343,7 @@
     padding-top: 55px;
     background-color: #F7F7F7;
     justify-content: center;
-    gap: 200px;
+    gap: 250px;
     margin-bottom: 20px;
 }
 
@@ -371,4 +371,21 @@
     width: 206px;
     font-size: 13px;
     font-weight: 400;
+}
+
+/* brend */
+.brend2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.brend__text{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.brend__span{
+    color: #FF4A32;
 }
